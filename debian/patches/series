@@ -1,2 +1,3 @@
 gcc-gfdl-build.patch
 add-big-endian-support.patch
+gcc-6-build.patch

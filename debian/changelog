@@ -1,3 +1,11 @@
+gcc-arm-none-eabi (15:4.9.3+svn227297-1.1) UNRELEASED; urgency=medium
+
+  * Non-maintainer upload.
+  * fixed build on hurd with gcc-6
+    - imported svn233721 backport from upstream
+
+ -- Philippe Mathieu-Daude <f4bug@amsat.org>  Sat, 27 Aug 2016 04:03:41 +0000
+
 gcc-arm-none-eabi (15:4.9.3+svn227297-1) unstable; urgency=medium
 
   * Convert package from 3.0(native) to 3.0(quilt) (Closes: #791541)
